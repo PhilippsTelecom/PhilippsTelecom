@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PhilippsTelecom (Philippe GRAFF 🙂)
-- 👀 I’m interested in Classification, SDN (Software Defined Networking)
-- 🌱 I’m currently learning how to survive to a PhD 😆
+- 👀 I’m interested in 5G, Congestion Control, Classification, SDN (Software Defined Networking)
+- 🌱 I’m currently learning how to survive to a post doc 😆
 - 💞️ I’m looking to collaborate on ... we'll figure it out.
-- 📫 How to reach me : 👉 philippe.graff@loria.fr
+- 📫 How to reach me : 👉 pgraff@uwaterloo.ca
 
 <!---
 PhilippsTelecom/PhilippsTelecom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
